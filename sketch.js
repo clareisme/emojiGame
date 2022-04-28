@@ -7,7 +7,7 @@ let g;
 let b;
 let timer = 5;
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(400,400);
   background(245);
 }
 
