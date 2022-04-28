@@ -8,7 +8,7 @@ let b;
 let timer = 5;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   background(245);
 }
 
